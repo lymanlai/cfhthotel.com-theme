@@ -1,0 +1,1197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Belafonte v1.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-06-25 06:08:17+0000\n"
+"Last-Translator: Dumitru Brinzan <dumitru@brinzan.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: hermes-admin/hermes-customizer.php:86
+#@ hermes_textdomain
+msgid "All Rights Reserved"
+msgstr ""
+
+#: hermes-admin/widgets/twitter.php:206
+#, php-format
+#@ hermes_textdomain
+msgid "%s ago"
+msgstr ""
+
+#: functions.php:150
+#: hermes-admin/widgets/twitter.php:211
+#: hermes-admin/widgets/twitter.php:213
+#: loop.php:13
+#, php-format
+#@ hermes_textdomain
+msgid "%s"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:170
+#@ hermes_textdomain
+msgid "Theme Options"
+msgstr ""
+
+#: loop-attractions-all.php:25
+#: loop-events.php:100
+#: loop.php:12
+#, php-format
+#@ hermes_textdomain
+msgid "Permalink to %s"
+msgstr ""
+
+#: single-event.php:65
+#: single.php:28
+#@ hermes_textdomain
+msgid "Tags"
+msgstr ""
+
+#: hermes-admin/widgets/facebook-like-box.php:126
+#@ hermes_textdomain
+msgid "Show Faces"
+msgstr ""
+
+#: hermes-admin/widgets/facebook-like-box.php:130
+#@ hermes_textdomain
+msgid "Show Stream"
+msgstr ""
+
+#: hermes-admin/widgets/facebook-like-box.php:134
+#@ hermes_textdomain
+msgid "Show Header"
+msgstr ""
+
+#: page-templates/attraction.php:24
+#: page-templates/attractions.php:24
+#: page-templates/blog.php:24
+#: page-templates/booking.php:90
+#: page-templates/events.php:29
+#: page-templates/gallery.php:24
+#: page-templates/room.php:24
+#: page-templates/rooms.php:28
+#: page-templates/testimonials.php:24
+#: page.php:18
+#@ hermes_textdomain
+msgid "Edit page"
+msgstr ""
+
+#: page-templates/attraction.php:32
+#: page-templates/attractions.php:32
+#: page-templates/blog.php:32
+#: page-templates/events.php:37
+#: page-templates/gallery.php:32
+#: page-templates/room.php:32
+#: page-templates/rooms.php:36
+#: page-templates/testimonials.php:32
+#: page.php:26
+#: single-event.php:64
+#: single.php:27
+#@ hermes_textdomain
+msgid "Pages"
+msgstr ""
+
+#: pagination.php:13
+#@ hermes_textdomain
+msgid "&larr; Previous"
+msgstr ""
+
+#: pagination.php:14
+#@ hermes_textdomain
+msgid "Next &rarr;"
+msgstr ""
+
+#: archive.php:15
+#@ hermes_textdomain
+msgid "Post Tagged with:"
+msgstr ""
+
+#: archive.php:16
+#: archive.php:17
+#: archive.php:18
+#@ hermes_textdomain
+msgid "Archive for"
+msgstr ""
+
+#: author.php:17
+#@ hermes_textdomain
+msgid "Posts by"
+msgstr ""
+
+#: header.php:118
+#@ hermes_textdomain
+msgid "Designed by"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:19
+#@ hermes_textdomain
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:20
+#@ hermes_textdomain
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:21
+#@ hermes_textdomain
+msgctxt "slideshow item"
+msgid "Add a New Testimonial"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:22
+#@ hermes_textdomain
+msgid "Add New Testimonial"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:23
+#@ hermes_textdomain
+msgid "Edit Testimonial"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:24
+#@ hermes_textdomain
+msgid "New Testimonial"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:25
+#@ hermes_textdomain
+msgid "View Testimonial"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:26
+#@ hermes_textdomain
+msgid "Search Testimonials"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:27
+#@ hermes_textdomain
+msgid "Nothing found"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:28
+#@ hermes_textdomain
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:11
+#: hermes-admin/hermes-theme-settings.php:409
+#@ hermes_textdomain
+msgid "General Settings"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:12
+#: hermes-admin/hermes-theme-settings.php:410
+#@ hermes_textdomain
+msgid "Homepage Settings"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:17
+#: hermes-admin/hermes-theme-settings.php:415
+#@ hermes_textdomain
+msgid "Debug Information"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:70
+#@ hermes_textdomain
+msgid "Your Telephone"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:71
+#@ hermes_textdomain
+msgid "Set your telephone number."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:73
+#@ hermes_textdomain
+msgid "1-800-123-4567"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:79
+#@ hermes_textdomain
+msgid "Your Address"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:80
+#@ hermes_textdomain
+msgid "Set your full address."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:82
+#@ hermes_textdomain
+msgid "34, Chestnut Road, London"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:88
+#@ hermes_textdomain
+msgid "Your E-mail"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:89
+#@ hermes_textdomain
+msgid "Set your e-mail address."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:101
+#@ hermes_textdomain
+msgid "Slideshow Page"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:102
+#@ hermes_textdomain
+msgid "Select a static page that contains the images to be used for the homepage slideshow. <br>These images will be shown in the slideshow on the Homepage and Archive Pages."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:111
+#@ hermes_textdomain
+msgid "Number of Photos to Display"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:112
+#@ hermes_textdomain
+msgid "How many photos to display in the slideshow."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:310
+#@ hermes_textdomain
+msgid "Debugging information"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:323
+#@ hermes_textdomain
+msgid "Hermes Theme Options - Contextual Help"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:40
+#@ hermes_textdomain
+msgid "Hermes Theme Options"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:48
+#@ hermes_textdomain
+msgid "Hermes Theme Documentation"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:167
+#@ hermes_textdomain
+msgid "HermesThemes"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:174
+#@ hermes_textdomain
+msgid "Documentation"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:398
+#: hermes-admin/hermes-theme-settings.php:539
+#@ hermes_textdomain
+msgid "Changelog"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:399
+#: hermes-admin/hermes-theme-settings.php:540
+#@ hermes_textdomain
+msgid "Theme Documentation"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:400
+#: hermes-admin/hermes-theme-settings.php:541
+#@ hermes_textdomain
+msgid "Theme Support"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:414
+#@ hermes_textdomain
+msgid "Banners"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:14
+#: hermes-admin/hermes-theme-settings.php:412
+#@ hermes_textdomain
+msgid "Social Media"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:476
+#@ hermes_textdomain
+msgid "Save Changes"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:611
+#@ hermes_textdomain
+msgid "Expecting a Numeric value! Please fix."
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:624
+#@ hermes_textdomain
+msgid "Expecting comma separated numeric values"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:634
+#@ hermes_textdomain
+msgid "Expecting comma separated numeric values! Please fix."
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:659
+#@ hermes_textdomain
+msgid "Invalid email! Please re-enter!"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:671
+#@ hermes_textdomain
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: hermes-admin/post-options.php:180
+#@ hermes_textdomain
+msgid "Distance to Attraction"
+msgstr ""
+
+#: hermes-admin/post-options.php:306
+#@ hermes_textdomain
+msgid "Testimonial Author"
+msgstr ""
+
+#: hermes-admin/post-options.php:310
+#@ hermes_textdomain
+msgid "Author Location"
+msgstr ""
+
+#: hermes-admin/post-options.php:315
+#@ hermes_textdomain
+msgid "Testimonial Date"
+msgstr ""
+
+#: hermes-admin/post-options.php:320
+#@ hermes_textdomain
+msgid "Link to Original Source"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:58
+#@ hermes_textdomain
+msgid "Like us on Facebook"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:67
+#@ hermes_textdomain
+msgid "Follow on Twitter"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:76
+#@ hermes_textdomain
+msgid "Check us on Foursquare"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:85
+#@ hermes_textdomain
+msgid "Connect on LinkedIn"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:94
+#@ hermes_textdomain
+msgid "Subscribe to RSS"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:103
+#@ hermes_textdomain
+msgid "RSS via Feedburner"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:112
+#@ hermes_textdomain
+msgid "TripAdvisor Reviews"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:121
+#@ hermes_textdomain
+msgid "Yelp Reviews"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:130
+#@ hermes_textdomain
+msgid "Check us on Youtube"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:157
+#@ hermes_textdomain
+msgid "Chat on Skype"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:198
+#: hermes-admin/widgets/facebook-like-box.php:93
+#: hermes-admin/widgets/tripadvisor.php:81
+#: hermes-admin/widgets/twitter.php:91
+#@ hermes_textdomain
+msgid "Widget Title"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:203
+#@ hermes_textdomain
+msgid "Enable this to open links in new windows"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:210
+#@ hermes_textdomain
+msgid "Facebook Page URL"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:214
+#@ hermes_textdomain
+msgid "Feedburner RSS URL"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:218
+#@ hermes_textdomain
+msgid "Foursquare Page URL"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:226
+#@ hermes_textdomain
+msgid "LinkedIn Profile URL"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:234
+#@ hermes_textdomain
+msgid "RSS URL"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:238
+#@ hermes_textdomain
+msgid "Skype Account ID"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:242
+#@ hermes_textdomain
+msgid "TripAdvisor Page URL"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:246
+#@ hermes_textdomain
+msgid "Twitter Account ID"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:250
+#@ hermes_textdomain
+msgid "Yelp Page URL"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:254
+#@ hermes_textdomain
+msgid "Youtube Page URL"
+msgstr ""
+
+#: hermes-admin/widgets/facebook-like-box.php:98
+#@ hermes_textdomain
+msgid "Facebook page URL"
+msgstr ""
+
+#: hermes-admin/widgets/facebook-like-box.php:103
+#@ hermes_textdomain
+msgid "Box Width"
+msgstr ""
+
+#: hermes-admin/widgets/facebook-like-box.php:112
+#@ hermes_textdomain
+msgid "Box Border Color"
+msgstr ""
+
+#: hermes-admin/widgets/facebook-like-box.php:117
+#@ hermes_textdomain
+msgid "Color Scheme"
+msgstr ""
+
+#: loop-attractions-all.php:15
+#@ hermes_textdomain
+msgid "Distance from Hotel"
+msgstr ""
+
+#: search.php:15
+#@ hermes_textdomain
+msgid "Search Results for"
+msgstr ""
+
+#: comments.php:2
+#@ hermes_textdomain
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:14
+#@ hermes_textdomain
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:14
+#@ hermes_textdomain
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:14
+#@ hermes_textdomain
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:18
+#: comments.php:32
+#@ hermes_textdomain
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:18
+#: comments.php:32
+#@ hermes_textdomain
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:44
+#@ hermes_textdomain
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:59
+#@ hermes_textdomain
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:64
+#@ hermes_textdomain
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:69
+#@ hermes_textdomain
+msgid "Your Website"
+msgstr ""
+
+#: comments.php:76
+#@ hermes_textdomain
+msgid "Comment"
+msgstr ""
+
+#: comments.php:79
+#, php-format
+#@ default
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: comments.php:80
+#@ hermes_textdomain
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:81
+#@ hermes_textdomain
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:82
+#@ hermes_textdomain
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:151
+#, php-format
+#@ hermes_textdomain
+msgid "%s at %s"
+msgstr ""
+
+#: functions.php:151
+#@ hermes_textdomain
+msgid "Edit"
+msgstr ""
+
+#: functions.php:155
+#@ hermes_textdomain
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:176
+#@ hermes_textdomain
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:176
+#@ hermes_textdomain
+msgid "(Edit)"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:283
+#@ hermes_textdomain
+msgid "Display Comments for Pages"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:284
+#@ hermes_textdomain
+msgid "Check this box if you want to display comments and submit comment form inside pages."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:292
+#@ hermes_textdomain
+msgid "Display Comments for Posts"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:293
+#@ hermes_textdomain
+msgid "Check this box if you want to display comments and submit comment form inside posts."
+msgstr ""
+
+#: hermes-admin/widgets/twitter.php:107
+#@ hermes_textdomain
+msgid "Hide timestamp"
+msgstr ""
+
+#: hermes-admin/widgets/twitter.php:112
+#@ hermes_textdomain
+msgid "Hide tweet URL"
+msgstr ""
+
+#: hermes-admin/widgets/twitter.php:117
+#@ hermes_textdomain
+msgid "Display follow me button"
+msgstr ""
+
+#: hermes-admin/widgets/twitter.php:122
+#@ hermes_textdomain
+msgid "Hide follower count?"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:15
+#: hermes-admin/hermes-theme-settings.php:413
+#@ hermes_textdomain
+msgid "Miscellaneous"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:263
+#@ hermes_textdomain
+msgid "Custom Code Before &lt;/head&gt;"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:264
+#@ hermes_textdomain
+msgid "Here you can add HTML/JS code that will be added right before &lt;/head&gt;. <br />For example here you can add the tracking code provided by Google Analytics."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:273
+#@ hermes_textdomain
+msgid "Custom Code Before &lt;/body&gt;"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:274
+#@ hermes_textdomain
+msgid "Here you can add HTML/JS code that will be added right before &lt;/body&gt;."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:301
+#@ hermes_textdomain
+msgid "Credit HermesThemes in Footer"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:302
+#@ hermes_textdomain
+msgid "Leave this box checked if you want to keep \"Designed by HermesThemes\" in the footer. Keeping this box checked will make us very happy."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:324
+#@ hermes_textdomain
+msgid "If you are experiencing problems with our theme, please consult our <a href=\"http://www.hermesthemes.com/support/\">Support Section</a>."
+msgstr ""
+
+#: hermes-admin/post-options.php:163
+#@ hermes_textdomain
+msgid "Slideshow autoplay speed in miliseconds"
+msgstr ""
+
+#: hermes-admin/widgets/twitter.php:96
+#@ hermes_textdomain
+msgid "Twitter ID"
+msgstr ""
+
+#: hermes-admin/widgets/twitter.php:101
+#@ hermes_textdomain
+msgid "Tweets to show"
+msgstr ""
+
+#: page-templates/booking.php:37
+#@ hermes_textdomain
+msgid "Booking Enquiry"
+msgstr ""
+
+#: page-templates/booking.php:42
+#@ hermes_textdomain
+msgid "Your name is required"
+msgstr ""
+
+#: page-templates/booking.php:45
+#@ hermes_textdomain
+msgid "A valid email is required"
+msgstr ""
+
+#: page-templates/booking.php:48
+#@ hermes_textdomain
+msgid "A complete arrival date is required"
+msgstr ""
+
+#: page-templates/booking.php:51
+#@ hermes_textdomain
+msgid "A complete departure date is required"
+msgstr ""
+
+#: page-templates/booking.php:54
+#@ hermes_textdomain
+msgid "A number of one or more adults is required"
+msgstr ""
+
+#: page-templates/booking.php:66
+#@ hermes_textdomain
+msgid "Name:"
+msgstr ""
+
+#: page-templates/booking.php:67
+#@ hermes_textdomain
+msgid "Email:"
+msgstr ""
+
+#: page-templates/booking.php:68
+#@ hermes_textdomain
+msgid "Telephone:"
+msgstr ""
+
+#: page-templates/booking.php:69
+#@ hermes_textdomain
+msgid "Date of arrival:"
+msgstr ""
+
+#: page-templates/booking.php:70
+#@ hermes_textdomain
+msgid "Date of departure:"
+msgstr ""
+
+#: page-templates/booking.php:71
+#@ hermes_textdomain
+msgid "Adults:"
+msgstr ""
+
+#: page-templates/booking.php:72
+#@ hermes_textdomain
+msgid "Children:"
+msgstr ""
+
+#: page-templates/booking.php:73
+#@ hermes_textdomain
+msgid "Comments:"
+msgstr ""
+
+#: page-templates/booking.php:112
+#@ hermes_textdomain
+msgid "Name"
+msgstr ""
+
+#: page-templates/booking.php:117
+#@ hermes_textdomain
+msgid "Email"
+msgstr ""
+
+#: page-templates/booking.php:122
+#@ hermes_textdomain
+msgid "Telephone"
+msgstr ""
+
+#: page-templates/booking.php:127
+#@ hermes_textdomain
+msgid "Date of Arrival"
+msgstr ""
+
+#: page-templates/booking.php:132
+#@ hermes_textdomain
+msgid "Date of Departure"
+msgstr ""
+
+#: page-templates/booking.php:137
+#@ hermes_textdomain
+msgid "Adults"
+msgstr ""
+
+#: page-templates/booking.php:142
+#@ hermes_textdomain
+msgid "Children"
+msgstr ""
+
+#: page-templates/booking.php:147
+#@ hermes_textdomain
+msgid "Comments"
+msgstr ""
+
+#: 404.php:14
+#@ hermes_textdomain
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:19
+#@ hermes_textdomain
+msgid "Apologies, but the requested page cannot be found. Perhaps searching will help find a related page."
+msgstr ""
+
+#: 404.php:25
+#: search.php:29
+#@ hermes_textdomain
+msgid "Browse Categories"
+msgstr ""
+
+#: 404.php:30
+#: search.php:34
+#@ hermes_textdomain
+msgid "Monthly Archives"
+msgstr ""
+
+#: header.php:115
+#: hermes-admin/hermes-customizer.php:86
+#@ hermes_textdomain
+msgid "Copyright &copy; "
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:93
+#@ eventposttype
+msgid "Events"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:94
+#@ eventposttype
+msgid "Event"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:95
+#: hermes-admin/custom-post-types.php:96
+#: hermes-admin/custom-post-types.php:98
+#@ eventposttype
+msgid "Add New Event"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:97
+#@ eventposttype
+msgid "Edit Event"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:99
+#@ eventposttype
+msgid "View Event"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:100
+#@ eventposttype
+msgid "Search Events"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:101
+#@ eventposttype
+msgid "No events found"
+msgstr ""
+
+#: hermes-admin/custom-post-types.php:102
+#@ eventposttype
+msgid "No events found in trash"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:52
+#@ hermes_textdomain
+msgid "Load custom.css file"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:53
+#@ hermes_textdomain
+msgid "Check this box if you want to load the custom.css file in the header of the theme."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:13
+#: hermes-admin/hermes-theme-settings.php:411
+#@ hermes_textdomain
+msgid "Rooms Settings"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:61
+#@ hermes_textdomain
+msgid "Sidebar Contact Info"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:140
+#@ hermes_textdomain
+msgid "Number of Room Custom Meta Fields"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:141
+#@ hermes_textdomain
+msgid "How many custom meta fields you want to display for Rooms.<br />Click <strong>\"Save Changes\"</strong> after changing this value."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:160
+#@ hermes_textdomain
+msgid "Room Amenities"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:161
+#@ hermes_textdomain
+msgid "Fill in the labels for all available room amenities, which can be then selected for each type of room."
+msgstr ""
+
+#: hermes-admin/widgets/facebook-like-box.php:108
+#@ hermes_textdomain
+msgid "Box Height"
+msgstr ""
+
+#: loop-room-amenities.php:48
+#@ hermes_textdomain
+msgid "Room Specifications"
+msgstr ""
+
+#: header.php:115
+#@ hermes_textdomain
+msgid "All Rights Reserved."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:62
+#@ hermes_textdomain
+msgid "Check if you want to display additional contaction information at the bottom of the sidebar, under the menu."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:121
+#@ hermes_textdomain
+msgid "Enable Slideshow Autoplay"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:122
+#@ hermes_textdomain
+msgid "Check this box if you want to enable autoplay for the homepage slideshow."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:130
+#@ hermes_textdomain
+msgid "Slideshow Autoplay Speed"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:131
+#@ hermes_textdomain
+msgid "In miliseconds. 1 second = 1000 miliseconds."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:179
+#@ hermes_textdomain
+msgid "Number of Price Options"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:180
+#@ hermes_textdomain
+msgid "If your room rates differ by month/season, choose the total number of price \"options\".<br />For example, if you have Low/Medium/High season rates, set this value to 3.<br />Click <strong>\"Save Changes\"</strong> after changing this value."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:199
+#@ hermes_textdomain
+msgid "Price Options Names"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:200
+#@ hermes_textdomain
+msgid "Fill in the labels (names) for your price options, which will then appear for each room.<br>Examples: Low Season, High Season, January-March, April-June."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:209
+#@ hermes_textdomain
+msgid "Display Icons Under Menu"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:210
+#@ hermes_textdomain
+msgid "Check this box if you want to display social media icons (Facebook, Twitter, TripAdvisor, RSS) under the Menu."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:218
+#@ hermes_textdomain
+msgid "Facebook"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:219
+#@ hermes_textdomain
+msgid "Set the complete path (URL) to your Facebook page."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:227
+#@ hermes_textdomain
+msgid "Twitter"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:228
+#@ hermes_textdomain
+msgid "Set the complete path (URL) to your Twitter page."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:236
+#@ hermes_textdomain
+msgid "TripAdvisor"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:237
+#@ hermes_textdomain
+msgid "Set the complete path (URL) to your TripAdvisor page."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:245
+#@ hermes_textdomain
+msgid "Yelp"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:246
+#@ hermes_textdomain
+msgid "Set the complete path (URL) to your Yelp page."
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:254
+#@ hermes_textdomain
+msgid "FourSquare"
+msgstr ""
+
+#: hermes-admin/hermes-theme-options.php:255
+#@ hermes_textdomain
+msgid "Set the complete path (URL) to your FourSquare page."
+msgstr ""
+
+#: loop-attractions-all.php:14
+#@ hermes_textdomain
+msgid "Attraction"
+msgstr ""
+
+#: loop-rooms.php:65
+#@ hermes_textdomain
+msgid "Room Type"
+msgstr ""
+
+#: single-event.php:56
+#@ hermes_textdomain
+msgid "Edit event"
+msgstr ""
+
+#: hermes-admin/hermes-theme-settings.php:264
+#@ hermes_textdomain
+msgid "--- Please select a page ---"
+msgstr ""
+
+#: hermes-admin/post-options.php:197
+#@ hermes_textdomain
+msgid "Send form submissions to this email"
+msgstr ""
+
+#: hermes-admin/post-options.php:199
+#@ hermes_textdomain
+msgid "If left blank, submissions will be sent to"
+msgstr ""
+
+#: hermes-admin/widgets/twitter.php:131
+#@ hermes_textdomain
+msgid "Consumer key"
+msgstr ""
+
+#: hermes-admin/widgets/twitter.php:136
+#@ hermes_textdomain
+msgid "Consumer secret"
+msgstr ""
+
+#: hermes-admin/widgets/twitter.php:141
+#@ hermes_textdomain
+msgid "Access token"
+msgstr ""
+
+#: hermes-admin/widgets/twitter.php:146
+#@ hermes_textdomain
+msgid "Access token secret"
+msgstr ""
+
+#: page-templates/booking.php:152
+#@ hermes_textdomain
+msgid "Send Request"
+msgstr ""
+
+#: hermes-admin/post-options.php:216
+#@ hermes_textdomain
+msgid "What events to display"
+msgstr ""
+
+#: hermes-admin/post-options.php:218
+#@ hermes_textdomain
+msgid "Future"
+msgstr ""
+
+#: hermes-admin/post-options.php:219
+#@ hermes_textdomain
+msgid "Past"
+msgstr ""
+
+#: hermes-admin/widgets/tripadvisor.php:86
+#@ hermes_textdomain
+msgid "TripAdvisor page URL"
+msgstr ""
+
+#: hermes-admin/widgets/tripadvisor.php:91
+#@ hermes_textdomain
+msgid "Widget Layout"
+msgstr ""
+
+#: hermes-admin/widgets/tripadvisor.php:99
+#@ hermes_textdomain
+msgid "Open link in a new window"
+msgstr ""
+
+#: loop-rooms-reversed.php:64
+#@ hermes_textdomain
+msgid "Room Price"
+msgstr ""
+
+#: page-templates/booking.php:105
+#@ hermes_textdomain
+msgid "Your booking enquiry has been sent. We will contact you as soon as possible."
+msgstr ""
+
+#: single.php:19
+#@ hermes_textdomain
+msgid "Edit post"
+msgstr ""
+
+#: functions.php:210
+#, php-format
+#@ hermes_textdomain
+msgid "Page %s"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:139
+#@ hermes_textdomain
+msgid "Check us on Google+"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:148
+#@ hermes_textdomain
+msgid "Check us on Pinterest"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:222
+#@ hermes_textdomain
+msgid "Google+ Page URL"
+msgstr ""
+
+#: hermes-admin/widgets/connections.php:230
+#@ hermes_textdomain
+msgid "Pinterest Page URL"
+msgstr ""
+
+#: search.php:25
+#@ hermes_textdomain
+msgid "Apologies, but the search query did not return any results."
+msgstr ""
+

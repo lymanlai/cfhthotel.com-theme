@@ -1,0 +1,68 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">hermes_attraction_distance</custom-field>
+        <custom-field action="translate">hermes_contact_embed</custom-field>
+        <custom-field action="translate">hermes_room_breakfast</custom-field>
+        <custom-field action="translate">hermes_room_occupancy</custom-field>
+        <custom-field action="translate">hermes_room_quantity</custom-field>
+        <custom-field action="translate">hermes_room_rate</custom-field>
+        <custom-field action="translate">hermes_room_size</custom-field>
+        <custom-field action="translate">hermes_testimonial_author</custom-field>
+        <custom-field action="translate">hermes_testimonial_author_company</custom-field>
+        <custom-field action="translate">hermes_testimonial_author_company_url</custom-field>
+        <custom-field action="translate">hermes_testimonial_author_position</custom-field>
+        <custom-field action="translate">hermes_testimonial_country</custom-field>
+        <custom-field action="translate">hermes_testimonial_date</custom-field>
+        <custom-field action="translate">hermes_testimonial_url</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">testimonial</custom-type>
+        <custom-type translate="1">event</custom-type>
+    </custom-types>    
+    <admin-texts>
+        <key name="hermes_options">
+            <key name="hermes_contact_telephone_value" />
+            <key name="hermes_contact_email_value" />
+            <key name="hermes_contact_address_value" />
+            <key name="hermes_rooms_meta_fields">
+                <key name="txt_input1" />
+                <key name="txt_input2" />
+                <key name="txt_input3" />
+                <key name="txt_input4" />
+                <key name="txt_input5" />
+                <key name="txt_input6" />
+                <key name="txt_input7" />
+                <key name="txt_input8" />
+                <key name="txt_input9" />
+                <key name="txt_input10" />
+                <key name="txt_input11" />
+                <key name="txt_input12" />
+                <key name="txt_input13" />
+                <key name="txt_input14" />
+                <key name="txt_input15" />
+                <key name="txt_input16" />
+                <key name="txt_input17" />
+                <key name="txt_input18" />
+                <key name="txt_input19" />
+                <key name="txt_input20" />
+            </key>
+            <key name="hermes_rooms_prices_fields">
+                <key name="txt_input1" />
+                <key name="txt_input2" />
+                <key name="txt_input3" />
+                <key name="txt_input4" />
+                <key name="txt_input5" />
+                <key name="txt_input6" />
+                <key name="txt_input7" />
+                <key name="txt_input8" />
+                <key name="txt_input9" />
+                <key name="txt_input10" />
+                <key name="txt_input11" />
+                <key name="txt_input12" />
+                <key name="txt_input13" />
+                <key name="txt_input14" />
+                <key name="txt_input15" />
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,23 @@
+/******************************************  
+ CUSTOM STYLESHEET
+*******************************************/
+
+/*
+* You can place your custom CSS statements in this file, after this message.
+* It is better to write everything custom here
+* because this file won't be replaced during updates.
+* 
+* Simply copy an existing style from style.css to this file, 
+* and modify it to your liking.
+*/
+body{
+  font-family: "微软雅黑","Open Sans",Helvetica,Arial,sans-serif;
+}
+#menu-main{
+  font-family: "微软雅黑","Open Sans",Helvetica,Arial,sans-serif;
+}
+
+@media screen and (max-width: 640px) {
+  header .widget_text{
+  }
+}
